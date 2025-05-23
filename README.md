@@ -50,6 +50,8 @@ This is my first Tableau project, and I focused on creating an interactive exper
   - `Duration Ms`: Duration of track
   - `Genres`: List of genres for each artist (*note: not all artists have genre tags*)
 
+> *The files were later converted into .xlsx files to support relationships in Tableau. I found out that JSON files that are unioned weren't able to have relationships with other tables as well*
+
 ## Features
 
 - Multi-dimensional filters for granular exploration
